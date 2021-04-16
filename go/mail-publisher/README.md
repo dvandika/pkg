@@ -1,0 +1,1 @@
+# RabbitMQ Mail Publisher
